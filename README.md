@@ -10,6 +10,11 @@ HOURS SPENT: 02
 - Installed BodyMovin AE plugin to implement After Effect animations as SVG (as code and not video).
 - Exported JS code for SVG player, implemented animation... It worked.
 
+TASKS FOR NEXT TIME:
+- [ ] Figure out how to make JS to somehow work with Flask.
+- [ ] Design and complete a totally cool animation for the website.
+- [ ] Figure out how the hell does tailwind CSS works and how can I code a navbar with it.
+
 ![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
 ![image](https://user-images.githubusercontent.com/62790552/161401959-b17ddf29-7866-4f93-869d-21c13ee87df4.png)
 ![image](https://user-images.githubusercontent.com/62790552/161401760-437b7ad7-3600-4ed0-b611-3b4ce5f4178f.png)
