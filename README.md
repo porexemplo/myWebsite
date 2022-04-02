@@ -11,11 +11,8 @@ HOURS SPENT: 02
 - Exported JS code for SVG player, implemented animation... It worked.
 
 ![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
-![image](https://user-images.githubusercontent.com/62790552/161401027-4a8014ca-5254-4586-91a1-7f1ea573dac3.png)
-![image](https://user-images.githubusercontent.com/62790552/161401210-89f9a9d8-35ba-463c-ab18-6bfb4b0a3d51.png)
+![image](https://user-images.githubusercontent.com/62790552/161401959-b17ddf29-7866-4f93-869d-21c13ee87df4.png)
 ![image](https://user-images.githubusercontent.com/62790552/161401760-437b7ad7-3600-4ed0-b611-3b4ce5f4178f.png)
-![image](https://user-images.githubusercontent.com/62790552/161401768-7c158b83-4fab-4b3a-a1cb-26ffc9f325d5.png)
-
 
 
 ## 31st MARCH 2022
