@@ -1,5 +1,5 @@
 # Progress Tracker
-HOURS SPENT: 01
+HOURS SPENT: 02
 
 ## 02nd APRIL 2022
 [BACKEND PROJECT IDEA] : A platform where users can download SVGs and customize their own.
