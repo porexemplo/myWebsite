@@ -6,8 +6,10 @@ HOURS SPENT: 02
 - Designed main website layout in figma.
 - Decided to add a cool "hi" svg animation to the front page.
 - Started downloading After Effects.
+- Designed a first "Hi" template.
 
 ![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
+![image](https://user-images.githubusercontent.com/62790552/161401027-4a8014ca-5254-4586-91a1-7f1ea573dac3.png)
 
 ## 31st MARCH 2022
 - Added basic project architecture. Decided to use Python (Flask framework).
