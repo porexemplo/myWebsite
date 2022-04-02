@@ -1,6 +1,13 @@
 # Progress Tracker
 HOURS SPENT: 01
 
+## 02nd APRIL 2022
+- Designed main website layout in figma.
+- Decided to add a cool "hi" svg animation to the front page.
+- Started downloading After Effects.
+
+![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
+
 ## 31st MARCH 2022
 - Added basic project architecture. Decided to use Python (Flask framework).
 - Added a virtual environment and installed the dependencies.
@@ -10,9 +17,3 @@ HOURS SPENT: 01
 ![image](https://user-images.githubusercontent.com/62790552/161380035-e54ca5c8-fd11-4b42-b8c7-dcaeb34f6061.png)
 ![image](https://user-images.githubusercontent.com/62790552/161380027-3cac44df-53c3-4105-abf7-bbb18a3d04fd.png)
 
-## 02nd APRIL 2022
-- Designed main website layout in figma.
-- Decided to add a cool "hi" svg animation to the front page.
-- Started downloading After Effects.
-
-![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
