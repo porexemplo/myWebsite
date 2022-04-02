@@ -2,6 +2,7 @@
 HOURS SPENT: 01
 
 ## 02nd APRIL 2022
+[BACKEND PROJECT IDEA] : A platform where users can download SVGs and customize their own.
 - Designed main website layout in figma.
 - Decided to add a cool "hi" svg animation to the front page.
 - Started downloading After Effects.
