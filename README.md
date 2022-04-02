@@ -7,9 +7,12 @@ HOURS SPENT: 02
 - Decided to add a cool "hi" svg animation to the front page.
 - Started downloading After Effects.
 - Designed a first "Hi" template.
+- Installed BodyMovin AE plugin to implement After Effect animations as SVG (as code and not video).
 
 ![image](https://user-images.githubusercontent.com/62790552/161380256-af68bbdd-3b3c-407b-b1cb-89a77b7a0eb0.png)
 ![image](https://user-images.githubusercontent.com/62790552/161401027-4a8014ca-5254-4586-91a1-7f1ea573dac3.png)
+![image](https://user-images.githubusercontent.com/62790552/161401210-89f9a9d8-35ba-463c-ab18-6bfb4b0a3d51.png)
+
 
 ## 31st MARCH 2022
 - Added basic project architecture. Decided to use Python (Flask framework).
