@@ -11,7 +11,7 @@ HOURS SPENT: 03
 - Exported JS code for SVG player, implemented animation... It worked.
 
 TASKS FOR NEXT TIME:
-- [ ] Figure out how to make JS to somehow work with Flask.
+- [x] Figure out how to make JS to somehow work with Flask.
 - [ ] Design and complete a totally cool animation for the website.
 - [ ] Figure out how the hell does tailwind CSS works and how can I code a navbar with it.
 
